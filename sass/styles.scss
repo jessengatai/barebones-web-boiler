@@ -1,11 +1,7 @@
-/* reset */
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-
 /* import base level styles */
+@import "reset";
 @import "text";
+@import "forms";
+@import "buttons";
 
 /* the fun starts now */
