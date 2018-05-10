@@ -1,5 +1,4 @@
 'use strict';
 
-var cool = 'This is some ES6 turned into ES5';
-
+var cool = 'TESTING: This is some ES6 turned into ES5';
 console.log(cool);
